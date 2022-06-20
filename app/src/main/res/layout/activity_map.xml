@@ -70,6 +70,7 @@
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_below="@+id/toolbar"
+        android:visibility="visible"
         android:layout_height="4dp">
 
         <ProgressBar
